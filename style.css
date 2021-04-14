@@ -1,0 +1,41 @@
+.menu{
+    display: flex;
+    justify-content: space-between ;
+    background-color: black;
+    padding: 15px;
+    font-size: 20px;
+    color: blanchedalmond;
+}
+.Grid{
+    display: flex;
+    flex-wrap: wrap;
+    margin: 40px;
+}
+.Grid img{
+    border: 2px solid black;
+    border-radius: 50px;
+}
+.Origami{
+    border-radius: 20px;
+    background-color: blanchedalmond;
+    padding: 30px;
+    margin: 25px;
+    width:310px:
+}
+.Origami:hover{
+    transform: scale(1.2);
+
+}
+a{
+text-decoration: none;
+}
+a:link{
+    color:white;
+}
+a:visited{
+    color: white;
+}
+body{
+    margin: 0px;
+    background-color:thistle;
+}
